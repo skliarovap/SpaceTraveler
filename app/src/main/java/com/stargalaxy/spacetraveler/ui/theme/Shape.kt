@@ -14,6 +14,6 @@ data class JetTourByPlanets (
 val Shapes = JetTourByPlanets(
     small = RoundedCornerShape(8.dp),
     medium = RoundedCornerShape(16.dp),
-    large = RoundedCornerShape(32.dp) ,
-    dialog = RoundedCornerShape(8.dp)
+    large = RoundedCornerShape(64.dp) ,
+    dialog = RoundedCornerShape(24.dp)
 )
